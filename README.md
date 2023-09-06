@@ -1,4 +1,4 @@
-## Hello! I'm Cícero Borges.
+<!-- ## Hello! I'm Cícero Borges.-->
 <!-- <div>
   <a href="https://github.com/ciceroborges">
   <img height="192em" src="https://github-readme-stats-ciceroborges.vercel.app/api?username=ciceroborges&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
